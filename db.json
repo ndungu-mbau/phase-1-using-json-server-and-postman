@@ -9,6 +9,11 @@
       "id": 2,
       "title": "JSON Server",
       "content": "Using JSON Server is really fun. It's an interesting piece of technology."
+    },
+    {
+      "title": "Article From REST Client",
+      "content": "This is content sent via a POST request from a REST Client",
+      "id": 3
     }
   ]
 }
