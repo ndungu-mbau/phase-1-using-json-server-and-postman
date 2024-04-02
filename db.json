@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "Hello everyone. This is my very first article. Looks interesting"
+    },
+    {
+      "id": 2,
+      "title": "JSON Server",
+      "content": "Using JSON Server is really fun. It's an interesting piece of technology."
+    }
+  ]
+}
